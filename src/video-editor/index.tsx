@@ -1,10 +1,7 @@
 import * as React from 'react';
-import style from './index.less';
-
-
+const style = require('./index.less');
 
 export default class VideoEditor extends React.Component {
-
 
   render () {
     return (

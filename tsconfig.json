@@ -4,6 +4,8 @@
     "noImplicitReturns": true,
     "noImplicitThis": true,
     "noImplicitAny": true,
+    "noUnusedParameters": true,
+    "noUnusedLocals": true,
     "moduleResolution": "node",
     "allowSyntheticDefaultImports": true,
     "jsx": "react",
