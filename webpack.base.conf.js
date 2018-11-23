@@ -41,7 +41,7 @@ module.exports = {
         }
       },
       {
-        test: /.mp4$/,
+        test: /.(mp4|jpe?g|png)$/,
         loader: 'url-loader',
         options: {
           limit: 1000,
